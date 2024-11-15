@@ -1,0 +1,39 @@
+.navbar-btn{
+    background-color: rgb(17, 7, 7);
+}
+button{
+    width: 9rem;
+    height: 3rem;
+    margin: 2rem  0 2rem 9rem;
+    border-radius: 2rem;
+}
+.btnh:hover{
+    background-image: url("home1.jpg");
+    cursor: pointer;
+    color: white;
+    
+}
+.btnA:hover{
+    background-image: url("ab.jpg");
+    cursor: pointer;
+    color: white;
+    
+}
+.btnC:hover{
+    background-image: url("c.jpg");
+    cursor: pointer;
+    color: white;
+    
+}
+.btnS:hover{
+    background-image: url("S.jpg");
+    cursor: pointer;
+    color: white;
+    
+}
+.btnL:hover{
+    background-image: url("l.jpg");
+    cursor: pointer;
+    color: white;
+    
+}
